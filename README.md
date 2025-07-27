@@ -19,5 +19,3 @@ The dataset, which was collected from accident and vehicle reports, was pre-proc
 - Python 3.x
 - pandas, numpy, scikit-learn, imbalanced-learn, matplotlib, seaborn, jupyter
 
-## License
-This project is for educational and research purposes only.
